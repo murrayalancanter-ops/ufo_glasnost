@@ -9,7 +9,7 @@ This translation was done using chatgpt v4.0, one page at a time, from a high qu
 
 Feel free to submit a PR if you see any obvious translation errors that need correction. I do not speak German, and have relied on GPT v4.0 and Twitter/X users to generate this English text.
 
-Pages with formulas or complex charts were included as-is. All photographs in the book are included.
+Pages with formulas or complex charts were included as-is. All photographs in the book fun are included.
 
 Alternate archive.org URL:
 https://archive.org/details/ufo-glasnost-marina-popowitsch-lq
